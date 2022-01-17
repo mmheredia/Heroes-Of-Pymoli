@@ -1,2 +1,1 @@
-# pandas-challenge
-Pandas Homework
+# Financial and Political Data Analysis
